@@ -1,2 +1,19 @@
-# indonesia-economic-security-site
-Website for personal profile and analysis of Indonesia economic security
+# Персональний сайт і аналіз економічної безпеки Індонезії
+
+Статичний сайт українською мовою: сторінка про автора та навчальний огляд економічної безпеки Індонезії. Складається з HTML, CSS �� JavaScript; графіки використовують Chart.js із CDN.
+
+## Опублікувати через GitHub Pages
+
+1. Відкрийте репозиторій `https://github.com/Lina111000s/indonesia-economic-security-site`.
+2. Перейдіть у **Settings → Pages**.
+3. У **Build and deployment** виберіть **Deploy from a branch**.
+4. У **Branch** виберіть `main`, папку `/(root)` і натисніть **Save**.
+5. Зачекайте завершення публікації (зазвичай кілька хвилин). Стан можна перевірити у **Actions** або на сторінці Pages.
+
+Адреса сайту: https://Lina111000s.github.io/indonesia-economic-security-site/
+
+Якщо Pages у налаштуваннях обмежений політикою організації чи облікового запису, перевірте доступність GitHub Pages у налаштуваннях репозиторію.
+
+## Важливо про статистику
+
+Наведені в таблиці цифри є оглядовим набором для навчальної візуалізації, а не завантаженням даних у реальному часі. Для цитування перевірте відповідни�� ряд і останній доступний рік у World Bank, IMF, Bank Indonesia та BPS; див. джерела на сторінці аналізу.
